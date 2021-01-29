@@ -1,7 +1,3 @@
-### Hi there 👋
-
-### I'm a 🇧🇷 Software Developer
-
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
