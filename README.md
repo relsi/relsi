@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat&logo=django&logoColor=white)
@@ -25,14 +24,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ### Analytics ⚙️
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=relsi)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=relsi&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=relsi&layout=compact&langs_count=8"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relsi" alt="relsi" /> </p>
-
-### Github Points :octocat:🏆️
-<img src="https://github-profile-trophy.vercel.app/?username=relsi&theme=onedark&margin-w=7&hide_border=true" alt="relsi's points"/>
 
 ### Let's connect ? 🤝
 <a href="https://www.linkedin.com/in/relsi/"><img src="https://img.shields.io/badge/-relsi-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
