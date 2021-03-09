@@ -24,7 +24,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ### Analytics ⚙️
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=relsi" alt="relsi" /> </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=relsi&count_private=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=relsi&layout=compact&langs_count=8"/>
 
 ### Let's connect ? 🤝
 <a href="https://www.linkedin.com/in/relsi/"><img src="https://img.shields.io/badge/-relsi-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
